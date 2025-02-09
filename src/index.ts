@@ -4,7 +4,6 @@ import * as path from 'path';
 import {uploadArtifact} from './uploadArtifact'
 import {getTestAssemblies} from './getTestAssemblies'
 import {getArguments} from './getArguments'
-import {getVsTestPath} from './getVsTestPath'
 
 export async function run() {
   try {
