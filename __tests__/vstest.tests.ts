@@ -9,7 +9,6 @@ import { run } from '../src/index';
 import {uploadArtifact} from '../src/uploadArtifact';
 import {getTestAssemblies} from '../src/getTestAssemblies';
 import {getArguments} from '../src/getArguments';
-import {getVsTestPath} from '../src/getVsTestPath';
 import {when} from 'jest-when';
 import * as fs from 'fs'
 // const fs = require('fs')
